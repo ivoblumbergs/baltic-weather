@@ -3,7 +3,7 @@
 Hi! This is my submission for the technical assignment.
 I built a full-stack weather app that lets you track weather in different cities.
 
-**Live Demo:** (http://135.181.110.141)
+**Live Demo:** (https://135.181.110.141.sslip.io)
 *(Running on my personal VPS (Ubuntu) that i have built)*
 
 ## 🏗️ How I Built It (My Thought Process)
